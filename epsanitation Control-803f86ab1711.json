@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "epsanitation-control",
+  "private_key_id": "803f86ab171147a156e3d8aea4f6592c7f3cf06c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDg54l6wO/YXfED\n8CMmBrA1/Wqb8yEs9Q4oCJpI9qqaB4O47iKEQyfuBKqSML3rm+9nS18DUFzC3kgX\n8Q/Vp9RztiX7C/M2A3Szu8vdlilOedLf6RJyLGH9bv48FqSqzczaeu9Hq0aW7niX\nbl9iTV26NugUH8nZoMlGrVykI3pmQT7/IRwXxppJ9f3JIknLLfPz39yxg9iw1QuR\n/W0kfNDy9POLSBXyFIPvfi/1pRzqJR3KXdzXcYQW5dW19v571WkZvnEivq0RzBAy\noIuE0Mx3FKprUbXJA6dxTAFBmzBTDJ2NRdqKmzI1EbRB7o65LagFvp2i48TaYknR\noaXWzhgzAgMBAAECggEBANbZeYVR8Q5CV+8KJZm7A/TfvUtzjPrUs4xdA362Xa29\nhgFRRJoTSX7g6E210IjWs3J7Fy4kRClIjZiJijXyGUvc8xWLifDMhlz5Bz0MqTM1\nv9R1ZFC7w3SG5spiWzZsWclRbWqK3WlsMLmBEA/plqNAtp4a7ApBxmYFUR3gYppw\n6Y5USIx0FcWaH0H/vss07oU72Q7dkvQy1FuTBchAw/LLp1D5f6NASnc+xZh6hYOc\nnpDgB6GINjzRuKxD42kVuUQDIULFDzTLNIkMEwWcDqxn/4Asu0MTo2ksAE5MTiFL\nN2edOgtqPXAKkB6wRaY4TK7nEc1UHnN/l4729HWXtCECgYEA8z7FE78ZI+SuBZGl\nIwBv/wdfc/SS1cKeVezNqIFkFAQlex7F8NqH+nWediDQQW59xoddzRp1fE4Va0AX\nnvA2R1ioY+sB4Te+GbbBtt2fWLlIZQTgoo3MBQiZig0nCqxCwqSTy6eNpDw5Y3Sh\nEgyGuSOrPHIT/dd9DRIU/OBeHmMCgYEA7LKRZg0Nk9y7x2CTO6RX5XusHYF24Lsm\nsudrLPy7wvMW0q+bBAmcIBzU9MTpmt9IF0qYXMTCIZDBDS2a+Uihh9l2kCwk1Cct\n+F0geJpTI+XPZT2RLh8RraaBOElGxyLMWs86BucPGtt9dAxREEG1ZoGG+hSxIIy5\nIx/Rmlecn/ECgYBYSnRmUnrhmGPCCbeTGNmODDMNd7zEcjvenHGZtD2LNmYUZnsa\njXfF5WN7JTXyShTFNuVJSU1TrVQA9eac/jv1cazNd8Pa58zMsJVnttHb9oTchgSz\nfByNxy1T+qotKZGh7PLofQzgjCuYegDs+Db+hH/nFNFE1i7By8pqb1Y6WQKBgHEs\n0KjjBOL2YDLs0nlqEzz+7UUOajD6S36veGeCUKTeZsNGg/BiR+xy3MBMhwYuTOIW\nINP6oHg8JpKOg9M+Dz5NlItLEDEAqtJedPA1mhtH/uqBjbFn2aQWQSMQpm8BDIU/\nIJe8U1ScLlgWq4wCXyIsPMXGrwrJPpy00hviWFmBAoGABpj+gQGlWDmNzTUjK5Sw\nOHwFSGofCk5yncy9+Nl88Vud1t2JKNu4t0Jhc4POzEw4zbVune2qOSb03VDwyioC\nhX36ma98RldhyKjCMP39Sp/WjsL51Q47rTmkRXsrwKFDMZVlmnslkFTd7P25uPCW\niRGHHBW7LQTlp21Xzdys4z0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "epsanitation-control@appspot.gserviceaccount.com",
+  "client_id": "115094397374323987472",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/epsanitation-control%40appspot.gserviceaccount.com"
+}
